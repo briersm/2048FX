@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d6359ae-4345-424a-b482-ac1a69638e7a" name="Default Changelist" comment="" />
+    <list default="true" id="3d6359ae-4345-424a-b482-ac1a69638e7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +25,7 @@
     <setting file="file://$PROJECT_DIR$/src/be/kdg/game/view/gameover/GameOverView.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1XyoVxhv72B5Zkj31JI7Xi11heX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Resources" />
@@ -115,11 +120,24 @@
       <workItem from="1583439661199" duration="5614000" />
       <workItem from="1583494730619" duration="748000" />
       <workItem from="1583497138135" duration="2372000" />
+      <workItem from="1583499926790" duration="259000" />
     </task>
+    <task id="LOCAL-00001" summary="Project bijna af, score werkt nog niet..">
+      <created>1583500068299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583500068299</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project bijna af, score werkt nog niet.." />
+    <option name="LAST_COMMIT_MESSAGE" value="Project bijna af, score werkt nog niet.." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1020" y="296" key="#com.intellij.ide.util.MemberChooser" timestamp="1583442070774">
@@ -132,6 +150,10 @@
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583243569432" />
     <state x="920" y="358" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583422590212" />
+    <state x="537" y="114" key="CommitChangelistDialog2" timestamp="1583500176134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583500176134" />
     <state x="1061" y="455" key="FileChooserDialogImpl" timestamp="1583422239173">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
