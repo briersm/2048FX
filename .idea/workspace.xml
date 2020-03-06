@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/be/kdg/game/model/Game.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/be/kdg/game/view/gameover/GameOverView.java" root0="SKIP_INSPECTION" />
@@ -177,10 +180,10 @@
     </state>
     <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583247835724" />
     <state width="2517" height="491" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583454456701" />
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583497138356">
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1583499943802">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583497138356" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583499943802" />
     <state x="875" y="462" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583439861667" />
     <state x="703" y="263" width="672" height="503" key="search.everywhere.popup" timestamp="1583495446354">
       <screen x="0" y="0" width="1920" height="1040" />
